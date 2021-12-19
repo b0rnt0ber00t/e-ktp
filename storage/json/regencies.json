@@ -1,0 +1,2572 @@
+[
+  {
+    "province_id": 1,
+    "zip": 1101,
+    "name": "SIMEULUE"
+  },
+  {
+    "province_id": 1,
+    "zip": 1102,
+    "name": "ACEH SINGKIL"
+  },
+  {
+    "province_id": 1,
+    "zip": 1103,
+    "name": "ACEH SELATAN"
+  },
+  {
+    "province_id": 1,
+    "zip": 1104,
+    "name": "ACEH TENGGARA"
+  },
+  {
+    "province_id": 1,
+    "zip": 1105,
+    "name": "ACEH TIMUR"
+  },
+  {
+    "province_id": 1,
+    "zip": 1106,
+    "name": "ACEH TENGAH"
+  },
+  {
+    "province_id": 1,
+    "zip": 1107,
+    "name": "ACEH BARAT"
+  },
+  {
+    "province_id": 1,
+    "zip": 1108,
+    "name": "ACEH BESAR"
+  },
+  {
+    "province_id": 1,
+    "zip": 1109,
+    "name": "PIDIE"
+  },
+  {
+    "province_id": 1,
+    "zip": 1110,
+    "name": "BIREUEN"
+  },
+  {
+    "province_id": 1,
+    "zip": 1111,
+    "name": "ACEH UTARA"
+  },
+  {
+    "province_id": 1,
+    "zip": 1112,
+    "name": "ACEH BARAT DAYA"
+  },
+  {
+    "province_id": 1,
+    "zip": 1113,
+    "name": "GAYO LUES"
+  },
+  {
+    "province_id": 1,
+    "zip": 1114,
+    "name": "ACEH TAMIANG"
+  },
+  {
+    "province_id": 1,
+    "zip": 1115,
+    "name": "NAGAN RAYA"
+  },
+  {
+    "province_id": 1,
+    "zip": 1116,
+    "name": "ACEH JAYA"
+  },
+  {
+    "province_id": 1,
+    "zip": 1117,
+    "name": "BENER MERIAH"
+  },
+  {
+    "province_id": 1,
+    "zip": 1118,
+    "name": "PIDIE JAYA"
+  },
+  {
+    "province_id": 1,
+    "zip": 1171,
+    "name": "BANDA ACEH"
+  },
+  {
+    "province_id": 1,
+    "zip": 1172,
+    "name": "SABANG"
+  },
+  {
+    "province_id": 1,
+    "zip": 1173,
+    "name": "LANGSA"
+  },
+  {
+    "province_id": 1,
+    "zip": 1174,
+    "name": "LHOKSEUMAWE"
+  },
+  {
+    "province_id": 1,
+    "zip": 1175,
+    "name": "SUBULUSSALAM"
+  },
+  {
+    "province_id": 2,
+    "zip": 1201,
+    "name": "NIAS"
+  },
+  {
+    "province_id": 2,
+    "zip": 1202,
+    "name": "MANDAILING NATAL"
+  },
+  {
+    "province_id": 2,
+    "zip": 1203,
+    "name": "TAPANULI SELATAN"
+  },
+  {
+    "province_id": 2,
+    "zip": 1204,
+    "name": "TAPANULI TENGAH"
+  },
+  {
+    "province_id": 2,
+    "zip": 1205,
+    "name": "TAPANULI UTARA"
+  },
+  {
+    "province_id": 2,
+    "zip": 1206,
+    "name": "TOBA SAMOSIR"
+  },
+  {
+    "province_id": 2,
+    "zip": 1207,
+    "name": "LABUHAN BATU"
+  },
+  {
+    "province_id": 2,
+    "zip": 1208,
+    "name": "ASAHAN"
+  },
+  {
+    "province_id": 2,
+    "zip": 1209,
+    "name": "SIMALUNGUN"
+  },
+  {
+    "province_id": 2,
+    "zip": 1210,
+    "name": "DAIRI"
+  },
+  {
+    "province_id": 2,
+    "zip": 1211,
+    "name": "KARO"
+  },
+  {
+    "province_id": 2,
+    "zip": 1212,
+    "name": "DELI SERDANG"
+  },
+  {
+    "province_id": 2,
+    "zip": 1213,
+    "name": "LANGKAT"
+  },
+  {
+    "province_id": 2,
+    "zip": 1214,
+    "name": "NIAS SELATAN"
+  },
+  {
+    "province_id": 2,
+    "zip": 1215,
+    "name": "HUMBANG HASUNDUTAN"
+  },
+  {
+    "province_id": 2,
+    "zip": 1216,
+    "name": "PAKPAK BHARAT"
+  },
+  {
+    "province_id": 2,
+    "zip": 1217,
+    "name": "SAMOSIR"
+  },
+  {
+    "province_id": 2,
+    "zip": 1218,
+    "name": "SERDANG BEDAGAI"
+  },
+  {
+    "province_id": 2,
+    "zip": 1219,
+    "name": "BATU BARA"
+  },
+  {
+    "province_id": 2,
+    "zip": 1220,
+    "name": "PADANG LAWAS UTARA"
+  },
+  {
+    "province_id": 2,
+    "zip": 1221,
+    "name": "PADANG LAWAS"
+  },
+  {
+    "province_id": 2,
+    "zip": 1222,
+    "name": "LABUHAN BATU SELATAN"
+  },
+  {
+    "province_id": 2,
+    "zip": 1223,
+    "name": "LABUHAN BATU UTARA"
+  },
+  {
+    "province_id": 2,
+    "zip": 1224,
+    "name": "NIAS UTARA"
+  },
+  {
+    "province_id": 2,
+    "zip": 1225,
+    "name": "NIAS BARAT"
+  },
+  {
+    "province_id": 2,
+    "zip": 1271,
+    "name": "SIBOLGA"
+  },
+  {
+    "province_id": 2,
+    "zip": 1272,
+    "name": "TANJUNG BALAI"
+  },
+  {
+    "province_id": 2,
+    "zip": 1273,
+    "name": "PEMATANG SIANTAR"
+  },
+  {
+    "province_id": 2,
+    "zip": 1274,
+    "name": "TEBING TINGGI"
+  },
+  {
+    "province_id": 2,
+    "zip": 1275,
+    "name": "MEDAN"
+  },
+  {
+    "province_id": 2,
+    "zip": 1276,
+    "name": "BINJAI"
+  },
+  {
+    "province_id": 2,
+    "zip": 1277,
+    "name": "PADANGSIDIMPUAN"
+  },
+  {
+    "province_id": 2,
+    "zip": 1278,
+    "name": "GUNUNGSITOLI"
+  },
+  {
+    "province_id": 3,
+    "zip": 1301,
+    "name": "KEPULAUAN MENTAWAI"
+  },
+  {
+    "province_id": 3,
+    "zip": 1302,
+    "name": "PESISIR SELATAN"
+  },
+  {
+    "province_id": 3,
+    "zip": 1303,
+    "name": "SOLOK"
+  },
+  {
+    "province_id": 3,
+    "zip": 1304,
+    "name": "SIJUNJUNG"
+  },
+  {
+    "province_id": 3,
+    "zip": 1305,
+    "name": "TANAH DATAR"
+  },
+  {
+    "province_id": 3,
+    "zip": 1306,
+    "name": "PADANG PARIAMAN"
+  },
+  {
+    "province_id": 3,
+    "zip": 1307,
+    "name": "AGAM"
+  },
+  {
+    "province_id": 3,
+    "zip": 1308,
+    "name": "LIMA PULUH KOTA"
+  },
+  {
+    "province_id": 3,
+    "zip": 1309,
+    "name": "PASAMAN"
+  },
+  {
+    "province_id": 3,
+    "zip": 1310,
+    "name": "SOLOK SELATAN"
+  },
+  {
+    "province_id": 3,
+    "zip": 1311,
+    "name": "DHARMASRAYA"
+  },
+  {
+    "province_id": 3,
+    "zip": 1312,
+    "name": "PASAMAN BARAT"
+  },
+  {
+    "province_id": 3,
+    "zip": 1371,
+    "name": "PADANG"
+  },
+  {
+    "province_id": 3,
+    "zip": 1372,
+    "name": "SOLOK"
+  },
+  {
+    "province_id": 3,
+    "zip": 1373,
+    "name": "SAWAH LUNTO"
+  },
+  {
+    "province_id": 3,
+    "zip": 1374,
+    "name": "PADANG PANJANG"
+  },
+  {
+    "province_id": 3,
+    "zip": 1375,
+    "name": "BUKITTINGGI"
+  },
+  {
+    "province_id": 3,
+    "zip": 1376,
+    "name": "PAYAKUMBUH"
+  },
+  {
+    "province_id": 3,
+    "zip": 1377,
+    "name": "PARIAMAN"
+  },
+  {
+    "province_id": 4,
+    "zip": 1401,
+    "name": "KUANTAN SINGINGI"
+  },
+  {
+    "province_id": 4,
+    "zip": 1402,
+    "name": "INDRAGIRI HULU"
+  },
+  {
+    "province_id": 4,
+    "zip": 1403,
+    "name": "INDRAGIRI HILIR"
+  },
+  {
+    "province_id": 4,
+    "zip": 1404,
+    "name": "PELALAWAN"
+  },
+  {
+    "province_id": 4,
+    "zip": 1405,
+    "name": "S I A K"
+  },
+  {
+    "province_id": 4,
+    "zip": 1406,
+    "name": "KAMPAR"
+  },
+  {
+    "province_id": 4,
+    "zip": 1407,
+    "name": "ROKAN HULU"
+  },
+  {
+    "province_id": 4,
+    "zip": 1408,
+    "name": "BENGKALIS"
+  },
+  {
+    "province_id": 4,
+    "zip": 1409,
+    "name": "ROKAN HILIR"
+  },
+  {
+    "province_id": 4,
+    "zip": 1410,
+    "name": "KEPULAUAN MERANTI"
+  },
+  {
+    "province_id": 4,
+    "zip": 1471,
+    "name": "PEKANBARU"
+  },
+  {
+    "province_id": 4,
+    "zip": 1473,
+    "name": "DUMAI"
+  },
+  {
+    "province_id": 5,
+    "zip": 1501,
+    "name": "KERINCI"
+  },
+  {
+    "province_id": 5,
+    "zip": 1502,
+    "name": "MERANGIN"
+  },
+  {
+    "province_id": 5,
+    "zip": 1503,
+    "name": "SAROLANGUN"
+  },
+  {
+    "province_id": 5,
+    "zip": 1504,
+    "name": "BATANG HARI"
+  },
+  {
+    "province_id": 5,
+    "zip": 1505,
+    "name": "MUARO JAMBI"
+  },
+  {
+    "province_id": 5,
+    "zip": 1506,
+    "name": "TANJUNG JABUNG TIMUR"
+  },
+  {
+    "province_id": 5,
+    "zip": 1507,
+    "name": "TANJUNG JABUNG BARAT"
+  },
+  {
+    "province_id": 5,
+    "zip": 1508,
+    "name": "TEBO"
+  },
+  {
+    "province_id": 5,
+    "zip": 1509,
+    "name": "BUNGO"
+  },
+  {
+    "province_id": 5,
+    "zip": 1571,
+    "name": "JAMBI"
+  },
+  {
+    "province_id": 5,
+    "zip": 1572,
+    "name": "SUNGAI PENUH"
+  },
+  {
+    "province_id": 6,
+    "zip": 1601,
+    "name": "OGAN KOMERING ULU"
+  },
+  {
+    "province_id": 6,
+    "zip": 1602,
+    "name": "OGAN KOMERING ILIR"
+  },
+  {
+    "province_id": 6,
+    "zip": 1603,
+    "name": "MUARA ENIM"
+  },
+  {
+    "province_id": 6,
+    "zip": 1604,
+    "name": "LAHAT"
+  },
+  {
+    "province_id": 6,
+    "zip": 1605,
+    "name": "MUSI RAWAS"
+  },
+  {
+    "province_id": 6,
+    "zip": 1606,
+    "name": "MUSI BANYUASIN"
+  },
+  {
+    "province_id": 6,
+    "zip": 1607,
+    "name": "BANYU ASIN"
+  },
+  {
+    "province_id": 6,
+    "zip": 1608,
+    "name": "OGAN KOMERING ULU SELATAN"
+  },
+  {
+    "province_id": 6,
+    "zip": 1609,
+    "name": "OGAN KOMERING ULU TIMUR"
+  },
+  {
+    "province_id": 6,
+    "zip": 1610,
+    "name": "OGAN ILIR"
+  },
+  {
+    "province_id": 6,
+    "zip": 1611,
+    "name": "EMPAT LAWANG"
+  },
+  {
+    "province_id": 6,
+    "zip": 1612,
+    "name": "PENUKAL ABAB LEMATANG ILIR"
+  },
+  {
+    "province_id": 6,
+    "zip": 1613,
+    "name": "MUSI RAWAS UTARA"
+  },
+  {
+    "province_id": 6,
+    "zip": 1671,
+    "name": "PALEMBANG"
+  },
+  {
+    "province_id": 6,
+    "zip": 1672,
+    "name": "PRABUMULIH"
+  },
+  {
+    "province_id": 6,
+    "zip": 1673,
+    "name": "PAGAR ALAM"
+  },
+  {
+    "province_id": 6,
+    "zip": 1674,
+    "name": "LUBUKLINGGAU"
+  },
+  {
+    "province_id": 7,
+    "zip": 1701,
+    "name": "BENGKULU SELATAN"
+  },
+  {
+    "province_id": 7,
+    "zip": 1702,
+    "name": "REJANG LEBONG"
+  },
+  {
+    "province_id": 7,
+    "zip": 1703,
+    "name": "BENGKULU UTARA"
+  },
+  {
+    "province_id": 7,
+    "zip": 1704,
+    "name": "KAUR"
+  },
+  {
+    "province_id": 7,
+    "zip": 1705,
+    "name": "SELUMA"
+  },
+  {
+    "province_id": 7,
+    "zip": 1706,
+    "name": "MUKOMUKO"
+  },
+  {
+    "province_id": 7,
+    "zip": 1707,
+    "name": "LEBONG"
+  },
+  {
+    "province_id": 7,
+    "zip": 1708,
+    "name": "KEPAHIANG"
+  },
+  {
+    "province_id": 7,
+    "zip": 1709,
+    "name": "BENGKULU TENGAH"
+  },
+  {
+    "province_id": 7,
+    "zip": 1771,
+    "name": "BENGKULU"
+  },
+  {
+    "province_id": 8,
+    "zip": 1801,
+    "name": "LAMPUNG BARAT"
+  },
+  {
+    "province_id": 8,
+    "zip": 1802,
+    "name": "TANGGAMUS"
+  },
+  {
+    "province_id": 8,
+    "zip": 1803,
+    "name": "LAMPUNG SELATAN"
+  },
+  {
+    "province_id": 8,
+    "zip": 1804,
+    "name": "LAMPUNG TIMUR"
+  },
+  {
+    "province_id": 8,
+    "zip": 1805,
+    "name": "LAMPUNG TENGAH"
+  },
+  {
+    "province_id": 8,
+    "zip": 1806,
+    "name": "LAMPUNG UTARA"
+  },
+  {
+    "province_id": 8,
+    "zip": 1807,
+    "name": "WAY KANAN"
+  },
+  {
+    "province_id": 8,
+    "zip": 1808,
+    "name": "TULANGBAWANG"
+  },
+  {
+    "province_id": 8,
+    "zip": 1809,
+    "name": "PESAWARAN"
+  },
+  {
+    "province_id": 8,
+    "zip": 1810,
+    "name": "PRINGSEWU"
+  },
+  {
+    "province_id": 8,
+    "zip": 1811,
+    "name": "MESUJI"
+  },
+  {
+    "province_id": 8,
+    "zip": 1812,
+    "name": "TULANG BAWANG BARAT"
+  },
+  {
+    "province_id": 8,
+    "zip": 1813,
+    "name": "PESISIR BARAT"
+  },
+  {
+    "province_id": 8,
+    "zip": 1871,
+    "name": "BANDAR LAMPUNG"
+  },
+  {
+    "province_id": 8,
+    "zip": 1872,
+    "name": "METRO"
+  },
+  {
+    "province_id": 9,
+    "zip": 1901,
+    "name": "BANGKA"
+  },
+  {
+    "province_id": 9,
+    "zip": 1902,
+    "name": "BELITUNG"
+  },
+  {
+    "province_id": 9,
+    "zip": 1903,
+    "name": "BANGKA BARAT"
+  },
+  {
+    "province_id": 9,
+    "zip": 1904,
+    "name": "BANGKA TENGAH"
+  },
+  {
+    "province_id": 9,
+    "zip": 1905,
+    "name": "BANGKA SELATAN"
+  },
+  {
+    "province_id": 9,
+    "zip": 1906,
+    "name": "BELITUNG TIMUR"
+  },
+  {
+    "province_id": 9,
+    "zip": 1971,
+    "name": "PANGKAL PINANG"
+  },
+  {
+    "province_id": 10,
+    "zip": 2101,
+    "name": "KARIMUN"
+  },
+  {
+    "province_id": 10,
+    "zip": 2102,
+    "name": "BINTAN"
+  },
+  {
+    "province_id": 10,
+    "zip": 2103,
+    "name": "NATUNA"
+  },
+  {
+    "province_id": 10,
+    "zip": 2104,
+    "name": "LINGGA"
+  },
+  {
+    "province_id": 10,
+    "zip": 2105,
+    "name": "KEPULAUAN ANAMBAS"
+  },
+  {
+    "province_id": 10,
+    "zip": 2171,
+    "name": "B A T A M"
+  },
+  {
+    "province_id": 10,
+    "zip": 2172,
+    "name": "TANJUNG PINANG"
+  },
+  {
+    "province_id": 11,
+    "zip": 3101,
+    "name": "KEPULAUAN SERIBU"
+  },
+  {
+    "province_id": 11,
+    "zip": 3171,
+    "name": "JAKARTA SELATAN"
+  },
+  {
+    "province_id": 11,
+    "zip": 3172,
+    "name": "JAKARTA TIMUR"
+  },
+  {
+    "province_id": 11,
+    "zip": 3173,
+    "name": "JAKARTA PUSAT"
+  },
+  {
+    "province_id": 11,
+    "zip": 3174,
+    "name": "JAKARTA BARAT"
+  },
+  {
+    "province_id": 11,
+    "zip": 3175,
+    "name": "JAKARTA UTARA"
+  },
+  {
+    "province_id": 12,
+    "zip": 3201,
+    "name": "BOGOR"
+  },
+  {
+    "province_id": 12,
+    "zip": 3202,
+    "name": "SUKABUMI"
+  },
+  {
+    "province_id": 12,
+    "zip": 3203,
+    "name": "CIANJUR"
+  },
+  {
+    "province_id": 12,
+    "zip": 3204,
+    "name": "BANDUNG"
+  },
+  {
+    "province_id": 12,
+    "zip": 3205,
+    "name": "GARUT"
+  },
+  {
+    "province_id": 12,
+    "zip": 3206,
+    "name": "TASIKMALAYA"
+  },
+  {
+    "province_id": 12,
+    "zip": 3207,
+    "name": "CIAMIS"
+  },
+  {
+    "province_id": 12,
+    "zip": 3208,
+    "name": "KUNINGAN"
+  },
+  {
+    "province_id": 12,
+    "zip": 3209,
+    "name": "CIREBON"
+  },
+  {
+    "province_id": 12,
+    "zip": 3210,
+    "name": "MAJALENGKA"
+  },
+  {
+    "province_id": 12,
+    "zip": 3211,
+    "name": "SUMEDANG"
+  },
+  {
+    "province_id": 12,
+    "zip": 3212,
+    "name": "INDRAMAYU"
+  },
+  {
+    "province_id": 12,
+    "zip": 3213,
+    "name": "SUBANG"
+  },
+  {
+    "province_id": 12,
+    "zip": 3214,
+    "name": "PURWAKARTA"
+  },
+  {
+    "province_id": 12,
+    "zip": 3215,
+    "name": "KARAWANG"
+  },
+  {
+    "province_id": 12,
+    "zip": 3216,
+    "name": "BEKASI"
+  },
+  {
+    "province_id": 12,
+    "zip": 3217,
+    "name": "BANDUNG BARAT"
+  },
+  {
+    "province_id": 12,
+    "zip": 3218,
+    "name": "PANGANDARAN"
+  },
+  {
+    "province_id": 12,
+    "zip": 3271,
+    "name": "BOGOR"
+  },
+  {
+    "province_id": 12,
+    "zip": 3272,
+    "name": "SUKABUMI"
+  },
+  {
+    "province_id": 12,
+    "zip": 3273,
+    "name": "BANDUNG"
+  },
+  {
+    "province_id": 12,
+    "zip": 3274,
+    "name": "CIREBON"
+  },
+  {
+    "province_id": 12,
+    "zip": 3275,
+    "name": "BEKASI"
+  },
+  {
+    "province_id": 12,
+    "zip": 3276,
+    "name": "DEPOK"
+  },
+  {
+    "province_id": 12,
+    "zip": 3277,
+    "name": "CIMAHI"
+  },
+  {
+    "province_id": 12,
+    "zip": 3278,
+    "name": "TASIKMALAYA"
+  },
+  {
+    "province_id": 12,
+    "zip": 3279,
+    "name": "BANJAR"
+  },
+  {
+    "province_id": 13,
+    "zip": 3301,
+    "name": "CILACAP"
+  },
+  {
+    "province_id": 13,
+    "zip": 3302,
+    "name": "BANYUMAS"
+  },
+  {
+    "province_id": 13,
+    "zip": 3303,
+    "name": "PURBALINGGA"
+  },
+  {
+    "province_id": 13,
+    "zip": 3304,
+    "name": "BANJARNEGARA"
+  },
+  {
+    "province_id": 13,
+    "zip": 3305,
+    "name": "KEBUMEN"
+  },
+  {
+    "province_id": 13,
+    "zip": 3306,
+    "name": "PURWOREJO"
+  },
+  {
+    "province_id": 13,
+    "zip": 3307,
+    "name": "WONOSOBO"
+  },
+  {
+    "province_id": 13,
+    "zip": 3308,
+    "name": "MAGELANG"
+  },
+  {
+    "province_id": 13,
+    "zip": 3309,
+    "name": "BOYOLALI"
+  },
+  {
+    "province_id": 13,
+    "zip": 3310,
+    "name": "KLATEN"
+  },
+  {
+    "province_id": 13,
+    "zip": 3311,
+    "name": "SUKOHARJO"
+  },
+  {
+    "province_id": 13,
+    "zip": 3312,
+    "name": "WONOGIRI"
+  },
+  {
+    "province_id": 13,
+    "zip": 3313,
+    "name": "KARANGANYAR"
+  },
+  {
+    "province_id": 13,
+    "zip": 3314,
+    "name": "SRAGEN"
+  },
+  {
+    "province_id": 13,
+    "zip": 3315,
+    "name": "GROBOGAN"
+  },
+  {
+    "province_id": 13,
+    "zip": 3316,
+    "name": "BLORA"
+  },
+  {
+    "province_id": 13,
+    "zip": 3317,
+    "name": "REMBANG"
+  },
+  {
+    "province_id": 13,
+    "zip": 3318,
+    "name": "PATI"
+  },
+  {
+    "province_id": 13,
+    "zip": 3319,
+    "name": "KUDUS"
+  },
+  {
+    "province_id": 13,
+    "zip": 3320,
+    "name": "JEPARA"
+  },
+  {
+    "province_id": 13,
+    "zip": 3321,
+    "name": "DEMAK"
+  },
+  {
+    "province_id": 13,
+    "zip": 3322,
+    "name": "SEMARANG"
+  },
+  {
+    "province_id": 13,
+    "zip": 3323,
+    "name": "TEMANGGUNG"
+  },
+  {
+    "province_id": 13,
+    "zip": 3324,
+    "name": "KENDAL"
+  },
+  {
+    "province_id": 13,
+    "zip": 3325,
+    "name": "BATANG"
+  },
+  {
+    "province_id": 13,
+    "zip": 3326,
+    "name": "PEKALONGAN"
+  },
+  {
+    "province_id": 13,
+    "zip": 3327,
+    "name": "PEMALANG"
+  },
+  {
+    "province_id": 13,
+    "zip": 3328,
+    "name": "TEGAL"
+  },
+  {
+    "province_id": 13,
+    "zip": 3329,
+    "name": "BREBES"
+  },
+  {
+    "province_id": 13,
+    "zip": 3371,
+    "name": "MAGELANG"
+  },
+  {
+    "province_id": 13,
+    "zip": 3372,
+    "name": "SURAKARTA"
+  },
+  {
+    "province_id": 13,
+    "zip": 3373,
+    "name": "SALATIGA"
+  },
+  {
+    "province_id": 13,
+    "zip": 3374,
+    "name": "SEMARANG"
+  },
+  {
+    "province_id": 13,
+    "zip": 3375,
+    "name": "PEKALONGAN"
+  },
+  {
+    "province_id": 13,
+    "zip": 3376,
+    "name": "TEGAL"
+  },
+  {
+    "province_id": 14,
+    "zip": 3401,
+    "name": "KULON PROGO"
+  },
+  {
+    "province_id": 14,
+    "zip": 3402,
+    "name": "BANTUL"
+  },
+  {
+    "province_id": 14,
+    "zip": 3403,
+    "name": "GUNUNG KIDUL"
+  },
+  {
+    "province_id": 14,
+    "zip": 3404,
+    "name": "SLEMAN"
+  },
+  {
+    "province_id": 14,
+    "zip": 3471,
+    "name": "YOGYAKARTA"
+  },
+  {
+    "province_id": 15,
+    "zip": 3501,
+    "name": "PACITAN"
+  },
+  {
+    "province_id": 15,
+    "zip": 3502,
+    "name": "PONOROGO"
+  },
+  {
+    "province_id": 15,
+    "zip": 3503,
+    "name": "TRENGGALEK"
+  },
+  {
+    "province_id": 15,
+    "zip": 3504,
+    "name": "TULUNGAGUNG"
+  },
+  {
+    "province_id": 15,
+    "zip": 3505,
+    "name": "BLITAR"
+  },
+  {
+    "province_id": 15,
+    "zip": 3506,
+    "name": "KEDIRI"
+  },
+  {
+    "province_id": 15,
+    "zip": 3507,
+    "name": "MALANG"
+  },
+  {
+    "province_id": 15,
+    "zip": 3508,
+    "name": "LUMAJANG"
+  },
+  {
+    "province_id": 15,
+    "zip": 3509,
+    "name": "JEMBER"
+  },
+  {
+    "province_id": 15,
+    "zip": 3510,
+    "name": "BANYUWANGI"
+  },
+  {
+    "province_id": 15,
+    "zip": 3511,
+    "name": "BONDOWOSO"
+  },
+  {
+    "province_id": 15,
+    "zip": 3512,
+    "name": "SITUBONDO"
+  },
+  {
+    "province_id": 15,
+    "zip": 3513,
+    "name": "PROBOLINGGO"
+  },
+  {
+    "province_id": 15,
+    "zip": 3514,
+    "name": "PASURUAN"
+  },
+  {
+    "province_id": 15,
+    "zip": 3515,
+    "name": "SIDOARJO"
+  },
+  {
+    "province_id": 15,
+    "zip": 3516,
+    "name": "MOJOKERTO"
+  },
+  {
+    "province_id": 15,
+    "zip": 3517,
+    "name": "JOMBANG"
+  },
+  {
+    "province_id": 15,
+    "zip": 3518,
+    "name": "NGANJUK"
+  },
+  {
+    "province_id": 15,
+    "zip": 3519,
+    "name": "MADIUN"
+  },
+  {
+    "province_id": 15,
+    "zip": 3520,
+    "name": "MAGETAN"
+  },
+  {
+    "province_id": 15,
+    "zip": 3521,
+    "name": "NGAWI"
+  },
+  {
+    "province_id": 15,
+    "zip": 3522,
+    "name": "BOJONEGORO"
+  },
+  {
+    "province_id": 15,
+    "zip": 3523,
+    "name": "TUBAN"
+  },
+  {
+    "province_id": 15,
+    "zip": 3524,
+    "name": "LAMONGAN"
+  },
+  {
+    "province_id": 15,
+    "zip": 3525,
+    "name": "GRESIK"
+  },
+  {
+    "province_id": 15,
+    "zip": 3526,
+    "name": "BANGKALAN"
+  },
+  {
+    "province_id": 15,
+    "zip": 3527,
+    "name": "SAMPANG"
+  },
+  {
+    "province_id": 15,
+    "zip": 3528,
+    "name": "PAMEKASAN"
+  },
+  {
+    "province_id": 15,
+    "zip": 3529,
+    "name": "SUMENEP"
+  },
+  {
+    "province_id": 15,
+    "zip": 3571,
+    "name": "KEDIRI"
+  },
+  {
+    "province_id": 15,
+    "zip": 3572,
+    "name": "BLITAR"
+  },
+  {
+    "province_id": 15,
+    "zip": 3573,
+    "name": "MALANG"
+  },
+  {
+    "province_id": 15,
+    "zip": 3574,
+    "name": "PROBOLINGGO"
+  },
+  {
+    "province_id": 15,
+    "zip": 3575,
+    "name": "PASURUAN"
+  },
+  {
+    "province_id": 15,
+    "zip": 3576,
+    "name": "MOJOKERTO"
+  },
+  {
+    "province_id": 15,
+    "zip": 3577,
+    "name": "MADIUN"
+  },
+  {
+    "province_id": 15,
+    "zip": 3578,
+    "name": "SURABAYA"
+  },
+  {
+    "province_id": 15,
+    "zip": 3579,
+    "name": "BATU"
+  },
+  {
+    "province_id": 16,
+    "zip": 3601,
+    "name": "PANDEGLANG"
+  },
+  {
+    "province_id": 16,
+    "zip": 3602,
+    "name": "LEBAK"
+  },
+  {
+    "province_id": 16,
+    "zip": 3603,
+    "name": "TANGERANG"
+  },
+  {
+    "province_id": 16,
+    "zip": 3604,
+    "name": "SERANG"
+  },
+  {
+    "province_id": 16,
+    "zip": 3671,
+    "name": "TANGERANG"
+  },
+  {
+    "province_id": 16,
+    "zip": 3672,
+    "name": "CILEGON"
+  },
+  {
+    "province_id": 16,
+    "zip": 3673,
+    "name": "SERANG"
+  },
+  {
+    "province_id": 16,
+    "zip": 3674,
+    "name": "TANGERANG SELATAN"
+  },
+  {
+    "province_id": 17,
+    "zip": 5101,
+    "name": "JEMBRANA"
+  },
+  {
+    "province_id": 17,
+    "zip": 5102,
+    "name": "TABANAN"
+  },
+  {
+    "province_id": 17,
+    "zip": 5103,
+    "name": "BADUNG"
+  },
+  {
+    "province_id": 17,
+    "zip": 5104,
+    "name": "GIANYAR"
+  },
+  {
+    "province_id": 17,
+    "zip": 5105,
+    "name": "KLUNGKUNG"
+  },
+  {
+    "province_id": 17,
+    "zip": 5106,
+    "name": "BANGLI"
+  },
+  {
+    "province_id": 17,
+    "zip": 5107,
+    "name": "KARANG ASEM"
+  },
+  {
+    "province_id": 17,
+    "zip": 5108,
+    "name": "BULELENG"
+  },
+  {
+    "province_id": 17,
+    "zip": 5171,
+    "name": "DENPASAR"
+  },
+  {
+    "province_id": 18,
+    "zip": 5201,
+    "name": "LOMBOK BARAT"
+  },
+  {
+    "province_id": 18,
+    "zip": 5202,
+    "name": "LOMBOK TENGAH"
+  },
+  {
+    "province_id": 18,
+    "zip": 5203,
+    "name": "LOMBOK TIMUR"
+  },
+  {
+    "province_id": 18,
+    "zip": 5204,
+    "name": "SUMBAWA"
+  },
+  {
+    "province_id": 18,
+    "zip": 5205,
+    "name": "DOMPU"
+  },
+  {
+    "province_id": 18,
+    "zip": 5206,
+    "name": "BIMA"
+  },
+  {
+    "province_id": 18,
+    "zip": 5207,
+    "name": "SUMBAWA BARAT"
+  },
+  {
+    "province_id": 18,
+    "zip": 5208,
+    "name": "LOMBOK UTARA"
+  },
+  {
+    "province_id": 18,
+    "zip": 5271,
+    "name": "MATARAM"
+  },
+  {
+    "province_id": 18,
+    "zip": 5272,
+    "name": "BIMA"
+  },
+  {
+    "province_id": 19,
+    "zip": 5301,
+    "name": "SUMBA BARAT"
+  },
+  {
+    "province_id": 19,
+    "zip": 5302,
+    "name": "SUMBA TIMUR"
+  },
+  {
+    "province_id": 19,
+    "zip": 5303,
+    "name": "KUPANG"
+  },
+  {
+    "province_id": 19,
+    "zip": 5304,
+    "name": "TIMOR TENGAH SELATAN"
+  },
+  {
+    "province_id": 19,
+    "zip": 5305,
+    "name": "TIMOR TENGAH UTARA"
+  },
+  {
+    "province_id": 19,
+    "zip": 5306,
+    "name": "BELU"
+  },
+  {
+    "province_id": 19,
+    "zip": 5307,
+    "name": "ALOR"
+  },
+  {
+    "province_id": 19,
+    "zip": 5308,
+    "name": "LEMBATA"
+  },
+  {
+    "province_id": 19,
+    "zip": 5309,
+    "name": "FLORES TIMUR"
+  },
+  {
+    "province_id": 19,
+    "zip": 5310,
+    "name": "SIKKA"
+  },
+  {
+    "province_id": 19,
+    "zip": 5311,
+    "name": "ENDE"
+  },
+  {
+    "province_id": 19,
+    "zip": 5312,
+    "name": "NGADA"
+  },
+  {
+    "province_id": 19,
+    "zip": 5313,
+    "name": "MANGGARAI"
+  },
+  {
+    "province_id": 19,
+    "zip": 5314,
+    "name": "ROTE NDAO"
+  },
+  {
+    "province_id": 19,
+    "zip": 5315,
+    "name": "MANGGARAI BARAT"
+  },
+  {
+    "province_id": 19,
+    "zip": 5316,
+    "name": "SUMBA TENGAH"
+  },
+  {
+    "province_id": 19,
+    "zip": 5317,
+    "name": "SUMBA BARAT DAYA"
+  },
+  {
+    "province_id": 19,
+    "zip": 5318,
+    "name": "NAGEKEO"
+  },
+  {
+    "province_id": 19,
+    "zip": 5319,
+    "name": "MANGGARAI TIMUR"
+  },
+  {
+    "province_id": 19,
+    "zip": 5320,
+    "name": "SABU RAIJUA"
+  },
+  {
+    "province_id": 19,
+    "zip": 5321,
+    "name": "MALAKA"
+  },
+  {
+    "province_id": 19,
+    "zip": 5371,
+    "name": "KUPANG"
+  },
+  {
+    "province_id": 20,
+    "zip": 6101,
+    "name": "SAMBAS"
+  },
+  {
+    "province_id": 20,
+    "zip": 6102,
+    "name": "BENGKAYANG"
+  },
+  {
+    "province_id": 20,
+    "zip": 6103,
+    "name": "LANDAK"
+  },
+  {
+    "province_id": 20,
+    "zip": 6104,
+    "name": "MEMPAWAH"
+  },
+  {
+    "province_id": 20,
+    "zip": 6105,
+    "name": "SANGGAU"
+  },
+  {
+    "province_id": 20,
+    "zip": 6106,
+    "name": "KETAPANG"
+  },
+  {
+    "province_id": 20,
+    "zip": 6107,
+    "name": "SINTANG"
+  },
+  {
+    "province_id": 20,
+    "zip": 6108,
+    "name": "KAPUAS HULU"
+  },
+  {
+    "province_id": 20,
+    "zip": 6109,
+    "name": "SEKADAU"
+  },
+  {
+    "province_id": 20,
+    "zip": 6110,
+    "name": "MELAWI"
+  },
+  {
+    "province_id": 20,
+    "zip": 6111,
+    "name": "KAYONG UTARA"
+  },
+  {
+    "province_id": 20,
+    "zip": 6112,
+    "name": "KUBU RAYA"
+  },
+  {
+    "province_id": 20,
+    "zip": 6171,
+    "name": "PONTIANAK"
+  },
+  {
+    "province_id": 20,
+    "zip": 6172,
+    "name": "SINGKAWANG"
+  },
+  {
+    "province_id": 21,
+    "zip": 6201,
+    "name": "KOTAWARINGIN BARAT"
+  },
+  {
+    "province_id": 21,
+    "zip": 6202,
+    "name": "KOTAWARINGIN TIMUR"
+  },
+  {
+    "province_id": 21,
+    "zip": 6203,
+    "name": "KAPUAS"
+  },
+  {
+    "province_id": 21,
+    "zip": 6204,
+    "name": "BARITO SELATAN"
+  },
+  {
+    "province_id": 21,
+    "zip": 6205,
+    "name": "BARITO UTARA"
+  },
+  {
+    "province_id": 21,
+    "zip": 6206,
+    "name": "SUKAMARA"
+  },
+  {
+    "province_id": 21,
+    "zip": 6207,
+    "name": "LAMANDAU"
+  },
+  {
+    "province_id": 21,
+    "zip": 6208,
+    "name": "SERUYAN"
+  },
+  {
+    "province_id": 21,
+    "zip": 6209,
+    "name": "KATINGAN"
+  },
+  {
+    "province_id": 21,
+    "zip": 6210,
+    "name": "PULANG PISAU"
+  },
+  {
+    "province_id": 21,
+    "zip": 6211,
+    "name": "GUNUNG MAS"
+  },
+  {
+    "province_id": 21,
+    "zip": 6212,
+    "name": "BARITO TIMUR"
+  },
+  {
+    "province_id": 21,
+    "zip": 6213,
+    "name": "MURUNG RAYA"
+  },
+  {
+    "province_id": 21,
+    "zip": 6271,
+    "name": "PALANGKA RAYA"
+  },
+  {
+    "province_id": 22,
+    "zip": 6301,
+    "name": "TANAH LAUT"
+  },
+  {
+    "province_id": 22,
+    "zip": 6302,
+    "name": "KOTA BARU"
+  },
+  {
+    "province_id": 22,
+    "zip": 6303,
+    "name": "BANJAR"
+  },
+  {
+    "province_id": 22,
+    "zip": 6304,
+    "name": "BARITO KUALA"
+  },
+  {
+    "province_id": 22,
+    "zip": 6305,
+    "name": "TAPIN"
+  },
+  {
+    "province_id": 22,
+    "zip": 6306,
+    "name": "HULU SUNGAI SELATAN"
+  },
+  {
+    "province_id": 22,
+    "zip": 6307,
+    "name": "HULU SUNGAI TENGAH"
+  },
+  {
+    "province_id": 22,
+    "zip": 6308,
+    "name": "HULU SUNGAI UTARA"
+  },
+  {
+    "province_id": 22,
+    "zip": 6309,
+    "name": "TABALONG"
+  },
+  {
+    "province_id": 22,
+    "zip": 6310,
+    "name": "TANAH BUMBU"
+  },
+  {
+    "province_id": 22,
+    "zip": 6311,
+    "name": "BALANGAN"
+  },
+  {
+    "province_id": 22,
+    "zip": 6371,
+    "name": "BANJARMASIN"
+  },
+  {
+    "province_id": 22,
+    "zip": 6372,
+    "name": "BANJAR BARU"
+  },
+  {
+    "province_id": 23,
+    "zip": 6401,
+    "name": "PASER"
+  },
+  {
+    "province_id": 23,
+    "zip": 6402,
+    "name": "KUTAI BARAT"
+  },
+  {
+    "province_id": 23,
+    "zip": 6403,
+    "name": "KUTAI KARTANEGARA"
+  },
+  {
+    "province_id": 23,
+    "zip": 6404,
+    "name": "KUTAI TIMUR"
+  },
+  {
+    "province_id": 23,
+    "zip": 6405,
+    "name": "BERAU"
+  },
+  {
+    "province_id": 23,
+    "zip": 6409,
+    "name": "PENAJAM PASER UTARA"
+  },
+  {
+    "province_id": 23,
+    "zip": 6411,
+    "name": "MAHAKAM HULU"
+  },
+  {
+    "province_id": 23,
+    "zip": 6471,
+    "name": "BALIKPAPAN"
+  },
+  {
+    "province_id": 23,
+    "zip": 6472,
+    "name": "SAMARINDA"
+  },
+  {
+    "province_id": 23,
+    "zip": 6474,
+    "name": "BONTANG"
+  },
+  {
+    "province_id": 24,
+    "zip": 6501,
+    "name": "MALINAU"
+  },
+  {
+    "province_id": 24,
+    "zip": 6502,
+    "name": "BULUNGAN"
+  },
+  {
+    "province_id": 24,
+    "zip": 6503,
+    "name": "TANA TIDUNG"
+  },
+  {
+    "province_id": 24,
+    "zip": 6504,
+    "name": "NUNUKAN"
+  },
+  {
+    "province_id": 24,
+    "zip": 6571,
+    "name": "TARAKAN"
+  },
+  {
+    "province_id": 25,
+    "zip": 7101,
+    "name": "BOLAANG MONGONDOW"
+  },
+  {
+    "province_id": 25,
+    "zip": 7102,
+    "name": "MINAHASA"
+  },
+  {
+    "province_id": 25,
+    "zip": 7103,
+    "name": "KEPULAUAN SANGIHE"
+  },
+  {
+    "province_id": 25,
+    "zip": 7104,
+    "name": "KEPULAUAN TALAUD"
+  },
+  {
+    "province_id": 25,
+    "zip": 7105,
+    "name": "MINAHASA SELATAN"
+  },
+  {
+    "province_id": 25,
+    "zip": 7106,
+    "name": "MINAHASA UTARA"
+  },
+  {
+    "province_id": 25,
+    "zip": 7107,
+    "name": "BOLAANG MONGONDOW UTARA"
+  },
+  {
+    "province_id": 25,
+    "zip": 7108,
+    "name": "SIAU TAGULANDANG BIARO"
+  },
+  {
+    "province_id": 25,
+    "zip": 7109,
+    "name": "MINAHASA TENGGARA"
+  },
+  {
+    "province_id": 25,
+    "zip": 7110,
+    "name": "BOLAANG MONGONDOW SELATAN"
+  },
+  {
+    "province_id": 25,
+    "zip": 7111,
+    "name": "BOLAANG MONGONDOW TIMUR"
+  },
+  {
+    "province_id": 25,
+    "zip": 7171,
+    "name": "MANADO"
+  },
+  {
+    "province_id": 25,
+    "zip": 7172,
+    "name": "BITUNG"
+  },
+  {
+    "province_id": 25,
+    "zip": 7173,
+    "name": "TOMOHON"
+  },
+  {
+    "province_id": 25,
+    "zip": 7174,
+    "name": "KOTAMOBAGU"
+  },
+  {
+    "province_id": 26,
+    "zip": 7201,
+    "name": "BANGGAI KEPULAUAN"
+  },
+  {
+    "province_id": 26,
+    "zip": 7202,
+    "name": "BANGGAI"
+  },
+  {
+    "province_id": 26,
+    "zip": 7203,
+    "name": "MOROWALI"
+  },
+  {
+    "province_id": 26,
+    "zip": 7204,
+    "name": "POSO"
+  },
+  {
+    "province_id": 26,
+    "zip": 7205,
+    "name": "DONGGALA"
+  },
+  {
+    "province_id": 26,
+    "zip": 7206,
+    "name": "TOLI-TOLI"
+  },
+  {
+    "province_id": 26,
+    "zip": 7207,
+    "name": "BUOL"
+  },
+  {
+    "province_id": 26,
+    "zip": 7208,
+    "name": "PARIGI MOUTONG"
+  },
+  {
+    "province_id": 26,
+    "zip": 7209,
+    "name": "TOJO UNA-UNA"
+  },
+  {
+    "province_id": 26,
+    "zip": 7210,
+    "name": "SIGI"
+  },
+  {
+    "province_id": 26,
+    "zip": 7211,
+    "name": "BANGGAI LAUT"
+  },
+  {
+    "province_id": 26,
+    "zip": 7212,
+    "name": "MOROWALI UTARA"
+  },
+  {
+    "province_id": 26,
+    "zip": 7271,
+    "name": "PALU"
+  },
+  {
+    "province_id": 27,
+    "zip": 7301,
+    "name": "KEPULAUAN SELAYAR"
+  },
+  {
+    "province_id": 27,
+    "zip": 7302,
+    "name": "BULUKUMBA"
+  },
+  {
+    "province_id": 27,
+    "zip": 7303,
+    "name": "BANTAENG"
+  },
+  {
+    "province_id": 27,
+    "zip": 7304,
+    "name": "JENEPONTO"
+  },
+  {
+    "province_id": 27,
+    "zip": 7305,
+    "name": "TAKALAR"
+  },
+  {
+    "province_id": 27,
+    "zip": 7306,
+    "name": "GOWA"
+  },
+  {
+    "province_id": 27,
+    "zip": 7307,
+    "name": "SINJAI"
+  },
+  {
+    "province_id": 27,
+    "zip": 7308,
+    "name": "MAROS"
+  },
+  {
+    "province_id": 27,
+    "zip": 7309,
+    "name": "PANGKAJENE DAN KEPULAUAN"
+  },
+  {
+    "province_id": 27,
+    "zip": 7310,
+    "name": "BARRU"
+  },
+  {
+    "province_id": 27,
+    "zip": 7311,
+    "name": "BONE"
+  },
+  {
+    "province_id": 27,
+    "zip": 7312,
+    "name": "SOPPENG"
+  },
+  {
+    "province_id": 27,
+    "zip": 7313,
+    "name": "WAJO"
+  },
+  {
+    "province_id": 27,
+    "zip": 7314,
+    "name": "SIDENRENG RAPPANG"
+  },
+  {
+    "province_id": 27,
+    "zip": 7315,
+    "name": "PINRANG"
+  },
+  {
+    "province_id": 27,
+    "zip": 7316,
+    "name": "ENREKANG"
+  },
+  {
+    "province_id": 27,
+    "zip": 7317,
+    "name": "LUWU"
+  },
+  {
+    "province_id": 27,
+    "zip": 7318,
+    "name": "TANA TORAJA"
+  },
+  {
+    "province_id": 27,
+    "zip": 7322,
+    "name": "LUWU UTARA"
+  },
+  {
+    "province_id": 27,
+    "zip": 7325,
+    "name": "LUWU TIMUR"
+  },
+  {
+    "province_id": 27,
+    "zip": 7326,
+    "name": "TORAJA UTARA"
+  },
+  {
+    "province_id": 27,
+    "zip": 7371,
+    "name": "MAKASSAR"
+  },
+  {
+    "province_id": 27,
+    "zip": 7372,
+    "name": "PAREPARE"
+  },
+  {
+    "province_id": 27,
+    "zip": 7373,
+    "name": "PALOPO"
+  },
+  {
+    "province_id": 28,
+    "zip": 7401,
+    "name": "BUTON"
+  },
+  {
+    "province_id": 28,
+    "zip": 7402,
+    "name": "MUNA"
+  },
+  {
+    "province_id": 28,
+    "zip": 7403,
+    "name": "KONAWE"
+  },
+  {
+    "province_id": 28,
+    "zip": 7404,
+    "name": "KOLAKA"
+  },
+  {
+    "province_id": 28,
+    "zip": 7405,
+    "name": "KONAWE SELATAN"
+  },
+  {
+    "province_id": 28,
+    "zip": 7406,
+    "name": "BOMBANA"
+  },
+  {
+    "province_id": 28,
+    "zip": 7407,
+    "name": "WAKATOBI"
+  },
+  {
+    "province_id": 28,
+    "zip": 7408,
+    "name": "KOLAKA UTARA"
+  },
+  {
+    "province_id": 28,
+    "zip": 7409,
+    "name": "BUTON UTARA"
+  },
+  {
+    "province_id": 28,
+    "zip": 7410,
+    "name": "KONAWE UTARA"
+  },
+  {
+    "province_id": 28,
+    "zip": 7411,
+    "name": "KOLAKA TIMUR"
+  },
+  {
+    "province_id": 28,
+    "zip": 7412,
+    "name": "KONAWE KEPULAUAN"
+  },
+  {
+    "province_id": 28,
+    "zip": 7413,
+    "name": "MUNA BARAT"
+  },
+  {
+    "province_id": 28,
+    "zip": 7414,
+    "name": "BUTON TENGAH"
+  },
+  {
+    "province_id": 28,
+    "zip": 7415,
+    "name": "BUTON SELATAN"
+  },
+  {
+    "province_id": 28,
+    "zip": 7471,
+    "name": "KENDARI"
+  },
+  {
+    "province_id": 28,
+    "zip": 7472,
+    "name": "BAUBAU"
+  },
+  {
+    "province_id": 29,
+    "zip": 7501,
+    "name": "BOALEMO"
+  },
+  {
+    "province_id": 29,
+    "zip": 7502,
+    "name": "GORONTALO"
+  },
+  {
+    "province_id": 29,
+    "zip": 7503,
+    "name": "POHUWATO"
+  },
+  {
+    "province_id": 29,
+    "zip": 7504,
+    "name": "BONE BOLANGO"
+  },
+  {
+    "province_id": 29,
+    "zip": 7505,
+    "name": "GORONTALO UTARA"
+  },
+  {
+    "province_id": 29,
+    "zip": 7571,
+    "name": "GORONTALO"
+  },
+  {
+    "province_id": 30,
+    "zip": 7601,
+    "name": "MAJENE"
+  },
+  {
+    "province_id": 30,
+    "zip": 7602,
+    "name": "POLEWALI MANDAR"
+  },
+  {
+    "province_id": 30,
+    "zip": 7603,
+    "name": "MAMASA"
+  },
+  {
+    "province_id": 30,
+    "zip": 7604,
+    "name": "MAMUJU"
+  },
+  {
+    "province_id": 30,
+    "zip": 7605,
+    "name": "MAMUJU UTARA"
+  },
+  {
+    "province_id": 30,
+    "zip": 7606,
+    "name": "MAMUJU TENGAH"
+  },
+  {
+    "province_id": 31,
+    "zip": 8101,
+    "name": "MALUKU TENGGARA BARAT"
+  },
+  {
+    "province_id": 31,
+    "zip": 8102,
+    "name": "MALUKU TENGGARA"
+  },
+  {
+    "province_id": 31,
+    "zip": 8103,
+    "name": "MALUKU TENGAH"
+  },
+  {
+    "province_id": 31,
+    "zip": 8104,
+    "name": "BURU"
+  },
+  {
+    "province_id": 31,
+    "zip": 8105,
+    "name": "KEPULAUAN ARU"
+  },
+  {
+    "province_id": 31,
+    "zip": 8106,
+    "name": "SERAM BAGIAN BARAT"
+  },
+  {
+    "province_id": 31,
+    "zip": 8107,
+    "name": "SERAM BAGIAN TIMUR"
+  },
+  {
+    "province_id": 31,
+    "zip": 8108,
+    "name": "MALUKU BARAT DAYA"
+  },
+  {
+    "province_id": 31,
+    "zip": 8109,
+    "name": "BURU SELATAN"
+  },
+  {
+    "province_id": 31,
+    "zip": 8171,
+    "name": "AMBON"
+  },
+  {
+    "province_id": 31,
+    "zip": 8172,
+    "name": "TUAL"
+  },
+  {
+    "province_id": 32,
+    "zip": 8201,
+    "name": "HALMAHERA BARAT"
+  },
+  {
+    "province_id": 32,
+    "zip": 8202,
+    "name": "HALMAHERA TENGAH"
+  },
+  {
+    "province_id": 32,
+    "zip": 8203,
+    "name": "KEPULAUAN SULA"
+  },
+  {
+    "province_id": 32,
+    "zip": 8204,
+    "name": "HALMAHERA SELATAN"
+  },
+  {
+    "province_id": 32,
+    "zip": 8205,
+    "name": "HALMAHERA UTARA"
+  },
+  {
+    "province_id": 32,
+    "zip": 8206,
+    "name": "HALMAHERA TIMUR"
+  },
+  {
+    "province_id": 32,
+    "zip": 8207,
+    "name": "PULAU MOROTAI"
+  },
+  {
+    "province_id": 32,
+    "zip": 8208,
+    "name": "PULAU TALIABU"
+  },
+  {
+    "province_id": 32,
+    "zip": 8271,
+    "name": "TERNATE"
+  },
+  {
+    "province_id": 32,
+    "zip": 8272,
+    "name": "TIDORE KEPULAUAN"
+  },
+  {
+    "province_id": 33,
+    "zip": 9101,
+    "name": "FAKFAK"
+  },
+  {
+    "province_id": 33,
+    "zip": 9102,
+    "name": "KAIMANA"
+  },
+  {
+    "province_id": 33,
+    "zip": 9103,
+    "name": "TELUK WONDAMA"
+  },
+  {
+    "province_id": 33,
+    "zip": 9104,
+    "name": "TELUK BINTUNI"
+  },
+  {
+    "province_id": 33,
+    "zip": 9105,
+    "name": "MANOKWARI"
+  },
+  {
+    "province_id": 33,
+    "zip": 9106,
+    "name": "SORONG SELATAN"
+  },
+  {
+    "province_id": 33,
+    "zip": 9107,
+    "name": "SORONG"
+  },
+  {
+    "province_id": 33,
+    "zip": 9108,
+    "name": "RAJA AMPAT"
+  },
+  {
+    "province_id": 33,
+    "zip": 9109,
+    "name": "TAMBRAUW"
+  },
+  {
+    "province_id": 33,
+    "zip": 9110,
+    "name": "MAYBRAT"
+  },
+  {
+    "province_id": 33,
+    "zip": 9111,
+    "name": "MANOKWARI SELATAN"
+  },
+  {
+    "province_id": 33,
+    "zip": 9112,
+    "name": "PEGUNUNGAN ARFAK"
+  },
+  {
+    "province_id": 33,
+    "zip": 9171,
+    "name": "SORONG"
+  },
+  {
+    "province_id": 34,
+    "zip": 9401,
+    "name": "MERAUKE"
+  },
+  {
+    "province_id": 34,
+    "zip": 9402,
+    "name": "JAYAWIJAYA"
+  },
+  {
+    "province_id": 34,
+    "zip": 9403,
+    "name": "JAYAPURA"
+  },
+  {
+    "province_id": 34,
+    "zip": 9404,
+    "name": "NABIRE"
+  },
+  {
+    "province_id": 34,
+    "zip": 9408,
+    "name": "KEPULAUAN YAPEN"
+  },
+  {
+    "province_id": 34,
+    "zip": 9409,
+    "name": "BIAK NUMFOR"
+  },
+  {
+    "province_id": 34,
+    "zip": 9410,
+    "name": "PANIAI"
+  },
+  {
+    "province_id": 34,
+    "zip": 9411,
+    "name": "PUNCAK JAYA"
+  },
+  {
+    "province_id": 34,
+    "zip": 9412,
+    "name": "MIMIKA"
+  },
+  {
+    "province_id": 34,
+    "zip": 9413,
+    "name": "BOVEN DIGOEL"
+  },
+  {
+    "province_id": 34,
+    "zip": 9414,
+    "name": "MAPPI"
+  },
+  {
+    "province_id": 34,
+    "zip": 9415,
+    "name": "ASMAT"
+  },
+  {
+    "province_id": 34,
+    "zip": 9416,
+    "name": "YAHUKIMO"
+  },
+  {
+    "province_id": 34,
+    "zip": 9417,
+    "name": "PEGUNUNGAN BINTANG"
+  },
+  {
+    "province_id": 34,
+    "zip": 9418,
+    "name": "TOLIKARA"
+  },
+  {
+    "province_id": 34,
+    "zip": 9419,
+    "name": "SARMI"
+  },
+  {
+    "province_id": 34,
+    "zip": 9420,
+    "name": "KEEROM"
+  },
+  {
+    "province_id": 34,
+    "zip": 9426,
+    "name": "WAROPEN"
+  },
+  {
+    "province_id": 34,
+    "zip": 9427,
+    "name": "SUPIORI"
+  },
+  {
+    "province_id": 34,
+    "zip": 9428,
+    "name": "MAMBERAMO RAYA"
+  },
+  {
+    "province_id": 34,
+    "zip": 9429,
+    "name": "NDUGA"
+  },
+  {
+    "province_id": 34,
+    "zip": 9430,
+    "name": "LANNY JAYA"
+  },
+  {
+    "province_id": 34,
+    "zip": 9431,
+    "name": "MAMBERAMO TENGAH"
+  },
+  {
+    "province_id": 34,
+    "zip": 9432,
+    "name": "YALIMO"
+  },
+  {
+    "province_id": 34,
+    "zip": 9433,
+    "name": "PUNCAK"
+  },
+  {
+    "province_id": 34,
+    "zip": 9434,
+    "name": "DOGIYAI"
+  },
+  {
+    "province_id": 34,
+    "zip": 9435,
+    "name": "INTAN JAYA"
+  },
+  {
+    "province_id": 34,
+    "zip": 9436,
+    "name": "DEIYAI"
+  },
+  {
+    "province_id": 34,
+    "zip": 9471,
+    "name": "JAYAPURA"
+  }
+]
