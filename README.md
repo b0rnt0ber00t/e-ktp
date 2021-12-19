@@ -25,7 +25,7 @@ DB_PASSWORD=Pa$$w0rd!
 ```
 > simbolic link (linux/unix)
 ```bash
-lns -s $PWD/e-ktp/public/assets/img/user/profile $PWD/face-detection/img
+ln -s $PWD/e-ktp/public/assets/img/user/profile $PWD/face-detection/img
 ```
 > windows
 ```bash
