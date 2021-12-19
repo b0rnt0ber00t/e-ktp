@@ -23,6 +23,14 @@ DB_DATABASE=db_name
 DB_USERNAME=root
 DB_PASSWORD=Pa$$w0rd!
 ```
+> simbolic link (linux/unix)
+```bash
+lns -s $PWD/e-ktp/public/assets/img/user/profile $PWD/face-detection/img
+```
+> windows
+```bash
+note: create shortcut from 'e-ktp/public/assets/img/user/profile' directory to 'face-detection/img'
+```
 
 ## Install
 > web #laravel
