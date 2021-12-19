@@ -13,6 +13,22 @@
 - Tokenizer PHP Extension
 - XML PHP Extension
 
+## Install
+> web #laravel
+```bash
+git clone https://github.com/b0rnt0ber00t/e-ktp.git
+cd ektp && composer install
+php artisan key:generate && php artisan migrate:fresh --seed
+php artisan serve
+```
+
+> face detection
+```bash
+git clone https://github.com/b0rnt0ber00t/face-detection.git
+cd face-detection && pip install -r requirement.txt
+python main.py
+```
+
 ## config
 > .env
 ```
@@ -30,22 +46,6 @@ ln -s $PWD/e-ktp/public/assets/img/user/profile $PWD/face-detection/img
 > windows
 ```bash
 note: create shortcut from 'e-ktp/public/assets/img/user/profile' directory to 'face-detection/img'
-```
-
-## Install
-> web #laravel
-```bash
-git clone https://github.com/b0rnt0ber00t/e-ktp.git
-cd ektp && composer install
-php artisan key:generate && php artisan migrate:fresh --seed
-php artisan serve
-```
-
-> face detection
-```bash
-git clone https://github.com/b0rnt0ber00t/face-detection.git
-cd face-detection && pip install -r requirement.txt
-python main.py
 ```
 
 ## default
